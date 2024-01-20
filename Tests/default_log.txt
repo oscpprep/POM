@@ -1,0 +1,3 @@
+
+Screenshot (from hook): Reports/screenshots/test_homepage_after_admin_login[chrome]_failure_hook.png
+Screenshot (from hook): Reports/screenshots/test_homepage_after_admin_login[chrome]_failure_hook.png
