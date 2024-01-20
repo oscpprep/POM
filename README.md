@@ -1,4 +1,7 @@
 # setup before first time runs
+cd dockers_compressed_into_7zips
+
+7z x dockers_compressed_into_7zips.7z.001
 
 docker pull selenium/standalone-chrome
 
